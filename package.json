@@ -1,0 +1,20 @@
+{
+  "name": "98ut7-todo-list",
+  "version": "2.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": "main.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
